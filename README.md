@@ -9,7 +9,7 @@
 
 💞️ I’m looking to collaborate on Data Scientist and Machine Learning Engineers and Data Engineers!
 
-📫 How to reach me on https://twitter.com/blessingjohnol1, https://www.linkedin.com/in/oluwadamilare1
+📫 How to reach me on https://www.linkedin.com/in/oluwadamilare1
 
 💬 Ask me about anything, I am happy to help;
 
