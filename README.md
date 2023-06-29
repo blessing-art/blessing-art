@@ -1,13 +1,12 @@
  Talking about Personal Stuffs:
  
-👋 I am an educator, programmer, data analyst and data scientist. 😉;
+👋 I am an educator, programmer, data analyst, data scientist and Cyber security Analyst. 😉;
 
-👨🏽‍💻 I’m getting familiar Python, MySQL, R, Microsoft POWER BI and SPARK SQL 🌱;
+👨🏽‍💻 I’m getting familiar Python, SQL, R, Microsoft POWER BI and Tableau 🌱;
 
-📝 I’m currently learning about NoSQL(MongoBD) and scikit-learn and tensorFlow Keras;
+📝 I’m currently learning about Golang and SOC analyst;
 
-
-💞️ I’m looking to collaborate on Data Scientist and Machine Learning Engineers and Data Engineers!
+💞️ I’m looking to collaborate on Data Analyst, Data Scientist in Computer Networking Administartors!
 
 📫 How to reach me on https://www.linkedin.com/in/oluwadamilare1
 
